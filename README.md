@@ -1,2 +1,2 @@
 ### Hi there 👋
-## Checkout my website at wendyyanto.github.io 
+#### Checkout my website at wendyyanto.github.io 
