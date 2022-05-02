@@ -4,4 +4,4 @@
 - 💻 Familiar in `.java`, `.kt`, `.html`, `.css`, `.js`, `.vue`, `.jsx`, `.php`, `.blade.php`, `.py`, `.cpp`, `.gradle`
 - 📜 Checkout my articles at https://medium.com/@yanto-wendy98
 - ✌️ Checkout my website at https://wendyyanto.github.io
-- 📈 Let's grind leetCode at: https://leetcode.com/JohnnyDoe98
+- 📈 Let's grind LeetCode at: https://leetcode.com/JohnnyDoe98
